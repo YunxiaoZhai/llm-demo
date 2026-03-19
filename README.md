@@ -9,7 +9,7 @@ This project builds a Docker image on top of `ollama/ollama:0.18.0` with:
 
 ## Build
 
-```powershell
+```
 docker build -t llm-ollama-openclaw:test .
 ```
 
